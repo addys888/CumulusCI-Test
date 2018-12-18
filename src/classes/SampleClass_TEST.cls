@@ -1,6 +1,6 @@
 @isTest
 public with sharing class SampleClass_TEST {
-#Test Class for Sample class Date 12th Dec
+#Test Class for Sample class Date 18th Dec
     public static testmethod void fillInFirstNameTest() {
     	SampleClass myClass = new SampleClass();
     	Contact contact = new Contact(LastName = 'Testerson');
